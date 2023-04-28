@@ -19,6 +19,7 @@ public class Book {
     private String author;
     private String email;
     private String phone;
+    private String lastName;
 
 
 }
